@@ -1,5 +1,5 @@
 import priya from '../../../assets/images/priyachaney.jpg';
-// import hina from '../../../assets/images/hina.jpg';
+import hina from '../../../assets/images/hina.jpeg';
 
 import './recommendations.component.scss';
 
@@ -36,7 +36,7 @@ const Recommendation = () => {
                                     Shoaib consistently delivered high-quality work and was always ready to take on new challenges. He quickly became a valuable member of the team, and I have no doubt he will thrive in any role he pursues next.</h6>
                                 <div className="rec-author">
                                     <div className="text-center">
-                                        {/* <div className="rec-img"><img src={hina} alt="Hina Kausar" /></div> */}
+                                        <div className="rec-img"><img src={hina} alt="Hina Kausar" /></div>
                                         <div className="rec-details">
                                             <h5>Hina Kausar</h5>
                                             <p>Senior Technical Specialist at AT&T</p>
