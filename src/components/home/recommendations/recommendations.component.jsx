@@ -39,7 +39,7 @@ const Recommendation = () => {
                                         <div className="rec-img"><img src={hina} alt="Hina Kausar" /></div>
                                         <div className="rec-details">
                                             <h5>Hina Kausar</h5>
-                                            <p>Senior Technical Specialist at AT&T</p>
+                                            <p>Manager - Engineering at AT&T</p>
                                         </div>
                                     </div>
                                 </div>
